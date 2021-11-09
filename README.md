@@ -1,4 +1,4 @@
-# -Discord-Animated-Status
+# Discord-Animated-Status
 ِAnimate Your Discord Status
 
 # How to Install
