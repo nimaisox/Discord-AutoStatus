@@ -2,9 +2,7 @@
 ِAnimate Your Discord Status
 
 # How to Install
-Download and install Better Discord
-betterdiscord.app
-
+Download and install Better Discord https://betterdiscord.app
 Get the AnimatedStatus.plugin.js file and add it to the Better Discord plugin file
 
 # How To Use
