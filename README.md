@@ -3,7 +3,7 @@
 
 # How to Install
 Download and install Better Discord
-https://betterdiscord.app
+betterdiscord.app
 
 Get the AnimatedStatus.plugin.js file and add it to the Better Discord plugin file
 
