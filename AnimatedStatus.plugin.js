@@ -3,6 +3,10 @@
  * @version 1.0.0
  * @description Animate Your Discord Status
  * @author nimaisox
+ * @authorId 631463369458843668
+ * @invite DStAkkypnm
+ * @source https://github.com/nimaisox/Discord-Fake-AFK
+ * @updateUrl https://github.com/nimaisox/Discord-Fake-AFK/blob/main/FakeAFK.plugin.js
  */
  module.exports = class AnimationStatus{
    
