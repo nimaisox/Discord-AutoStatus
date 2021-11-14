@@ -6,7 +6,6 @@
  * @authorId 631463369458843668
  * @invite DStAkkypnm
  * @source https://github.com/nimaisox/Discord-Animated-Status
- * @updateUrl https://github.com/nimaisox/Discord-Animated-Status/blob/main/AnimatedStatus.plugin.js
  */
  module.exports = class AnimationStatus{
    
