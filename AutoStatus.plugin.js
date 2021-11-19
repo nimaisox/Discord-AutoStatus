@@ -5,7 +5,7 @@
  * @author nimaisox
  * @authorId 631463369458843668
  * @invite DStAkkypnm
- * @source https://github.com/nimaisox/Discord-Animated-Status
+ * @source https://github.com/nimaisox/Discord-AutoStatus
  */
  module.exports = class AnimationStatus{
    
